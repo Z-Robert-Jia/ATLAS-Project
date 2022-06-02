@@ -6,3 +6,7 @@ This is the CVPR direction guide. We refered to this template while writing our 
 ---
 ### Paper 2: [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://arxiv.org/abs/1606.06650)
 This is the related paper for our baseline model. 
+
+---
+### Paper 3: [UNetR: Transformers for 3D Medical Image Segmentation](https://arxiv.org/abs/2103.10504)
+This is the related paper for our baseline model. 
